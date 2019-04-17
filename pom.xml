@@ -7,6 +7,9 @@
     <groupId>com.infoblox</groupId>
     <artifactId>infoblox</artifactId>
     <version>1.0-SNAPSHOT</version>
+         dependencies {
+classpath "org.sonarsource.scanner.gradle: sonarqube-gradle-plugin:2.5"
+}
 
 
 </project>
